@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Welcome to Multimagix on GitHub!
+# Welcome to MultiMagix on GitHub!
 
 ## 🚀 Who We Are
 Multimagix is a cutting-edge software startup passionate about enriching media interaction on every platform. We specialize in creating native media applications that are intuitive, powerful, and seamless.
