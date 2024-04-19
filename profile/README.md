@@ -13,7 +13,8 @@ Our goal is to redefine user experiences across all devices by providing top-tie
 - iOS
 - Android
 - Raspberry Pi
-- macOS
+- MacOSX
+- Windows
 
 ## 🔗 Join Us
 We’re on a journey to transform how people interact with media applications. Whether you’re a coder, a designer, or just someone who loves great software, there’s a place for you at Multimagix. Dive into our public repos to see how we work, or start a collaboration by suggesting new ideas or features.
