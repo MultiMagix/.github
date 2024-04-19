@@ -8,7 +8,7 @@ Multimagix is a cutting-edge software startup passionate about enriching media i
 ## 👩‍💻 Our Mission
 Our goal is to redefine user experiences across all devices by providing top-tier media applications. We aim to bridge the gap between functionality and accessibility, ensuring our applications enhance productivity and creativity on any platform.
 
-## 🖥️ Platforms We Love
+## 🖥️ Platforms We Support
 - Linux
 - iOS
 - Android
