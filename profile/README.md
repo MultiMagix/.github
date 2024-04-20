@@ -28,4 +28,6 @@ We’re on a journey to transform how people interact with media applications. W
 - **Reddit**: https://www.reddit.com/user/MultiMagix
 - **Youtube**: https://www.youtube.com/@Multi_Magix
 - **Our Blog**: https://multimagix.com/category/blog/
+- **App Store**: https://apps.apple.com/in/app/multimagix/id6474563226
+- **PlayStore**: https://play.google.com/store/apps/details?id=com.multi.magix&hl=en&gl=US
 
