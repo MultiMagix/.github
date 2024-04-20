@@ -22,10 +22,8 @@ We’re on a journey to transform how people interact with media applications. W
 ## 📢 Connect With Us
 
 - **LinkedIn**: https://www.linkedin.com/company/multimagix
-- **Instagram**: https://www.instagram.com/multimagixmaigha
-- **Twitter**: https://twitter.com/TheMultiMagix
-- **Facebook**: [Follow us on Facebook](https://www.facebook.com/profile.php?id=61558353133909)
-- **Reddit**: https://www.reddit.com/user/MultiMagix
+- **Instagram**: https://www.instagram.com/multimagix_
+- **Twitter**: https://twitter.com/multimagix_
 - **Youtube**: https://www.youtube.com/@Multi_Magix
 - **Our Blog**: https://multimagix.com/category/blog/
 - **App Store**: https://apps.apple.com/in/app/multimagix/id6474563226
